@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "AfricaSoftt DEV",
+    "slug": "africasoftt-dev",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0A2B3E"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.africasoftt.dev"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0A2B3E"
+      },
+      "package": "com.africasoftt.dev"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Application mobile AfricaSoftt DEV - Services de développement Web, Android et USSD"
+  }
+}
